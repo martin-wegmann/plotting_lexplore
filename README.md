@@ -1,5 +1,5 @@
-# Plotting all kinds of data from LéXPLORE
-This contains notebooks to plot all kinds of data from LéXPLORE.
+# Plotting all kinds of data recorded by LéXPLORE
+This repository contains mostly python notebooks to plot all kinds of data recorded by the LéXPLORE platform (https://lexplore.info).
 
 
 ---------------------------------------------------------------------------------------------------------------
